@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 9aa4e0219e4c456701f2                            #生成的clientID
   clientSecret: a71d3bb515f1872b2e7f0df23cdff6f18c27d10c    #生成的clientSecret
   repo: RgngGnmtg.github.io    #仓库名称
